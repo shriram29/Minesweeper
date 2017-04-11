@@ -1,0 +1,7 @@
+______________________________
+         Minesweeper
+5 x 5 game with 6 mines 
+Played at 04/11/17  18:56:47
+ You lost the game !! :( 
+
+______________________________
